@@ -2,7 +2,7 @@ import 'package:example/user.dart';
 import 'package:faker/faker.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:paginationList/paginationList.dart';
+import 'package:pagination/pagination.dart';
 
 void main() => runApp(MyApp());
 

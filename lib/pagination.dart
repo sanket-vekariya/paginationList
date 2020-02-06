@@ -1,4 +1,4 @@
-library paginationList;
+library pagination;
 
 import 'dart:async';
 
@@ -58,14 +58,6 @@ class PaginationList<T> extends StatefulWidget {
 
   @override
   _PaginationListState<T> createState() => _PaginationListState<T>();
-}
-
-Widget Img() {
-  return new Image(
-    image: AssetImage("assets/loadingRainbow.gif"),
-    height: 25,
-    width: 25,
-  );
 }
 
 class _PaginationListState<T> extends State<PaginationList<T>>

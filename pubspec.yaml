@@ -1,6 +1,6 @@
-name: paginationList
+name: pagination
 description: A Powerful Flutter Pagination Library with loading indicator at bottom.
-version: 0.0.1
+version: 0.1.0
 homepage: https://github.com/sanket-vekariya/paginationList
 authors:
   - Sanket Vekariya <ssvekariya11@gmail.com>

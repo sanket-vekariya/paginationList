@@ -1,15 +1,15 @@
-# paginationList
+# pagination
 
-[![pub package](https://img.shields.io/badge/pub-0.0.1-blueviolet.svg)](https://pub.dev/packages/paginationList)<br>
+[![pub package](https://img.shields.io/badge/pub-0.1.0-blueviolet.svg)](https://pub.dev/packages/pagination)<br>
 A Pagination Library for Flutter (with Web Support).
 
 ### How to Use
 just add below in pubspec.yaml 
 ```
-paginationList: ^0.0.1
+pagination: ^0.1.0
 ```
 ```
-import 'package:paginationList/paginationList.dart';
+import 'package:pagination/pagination.dart';
 ```
 Demo Code:
 ```
