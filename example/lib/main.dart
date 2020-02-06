@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'PaginationView Demo',
+      title: 'Pagination Demo',
       theme: ThemeData(
         primarySwatch: Colors.cyan,
       ),
@@ -28,7 +28,7 @@ class HomePage extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Text(
-          'PaginationView Example',
+          'Pagination Example',
           style: TextStyle(
             color: Colors.white,
           ),

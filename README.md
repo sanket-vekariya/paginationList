@@ -45,7 +45,7 @@ Demo Code:
       ),
 ```
 <br>
-<img align="middle" src="https://user-images.githubusercontent.com/52414184/73923273-9d803f00-48f0-11ea-9d1c-2e66a8517eeb.gif" width=270 height=550>
+<img align="middle" src="https://user-images.githubusercontent.com/52414184/73930647-e0e0aa80-48fc-11ea-9017-a090627ba65e.gif" width=270 height=550>
 <br>
 
 ### For more info:
